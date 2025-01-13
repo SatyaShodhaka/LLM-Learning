@@ -7,7 +7,7 @@ import os
 from tqdm import tqdm
 import time
 
-openai.api_key = "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"
+openai.api_key = ""
 async def dispatch_openai_requests(
     messages_list: list[list[dict[str,Any]]],
     model: str,
