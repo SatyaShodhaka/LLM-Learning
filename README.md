@@ -1,4 +1,4 @@
-# Project Title: Beyond One-Shot Learning: Sustaining Growth in LLMs
+# Beyond One-Shot Learning: Sustaining Growth in LLMs
 
 This project focuses on enhancing large language models (LLMs) by identifying and integrating new knowledge using innovative strategies like Question-based Retrieval Augmented Generation (RAG) and curriculum learning.
 
